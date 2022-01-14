@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>7SUCLOUD.VIP</title>
+  <title>7SUCLOUD官网</title>
   <meta name="description" content="A blog about lorem ipsum dolor sit amet">
 
   <link rel="stylesheet" href="/assets/css/main.css">
@@ -13,19 +13,19 @@
       <div id="particles-js">
   <div class="header">
       <h1>
-        <span class="site-title">7SUCLOUD.VIP</span>
+        <span class="site-title">7SUCLOUD官网</span>
         <span class="site-description">入口</span>
       </h1>
     <div class="header-icons">
-        <a aria-label="My Twitter" target="_blank" href="https://suying666.net"><i class="icon fa fa-rocket" aria-hidden="true"></i></a>
+        <a aria-label="My Twitter" target="_blank" href="https://7sucloud.xyz"><i class="icon fa fa-rocket" aria-hidden="true"></i></a>
       </div>
       <div class="header-links">
-	  <a class="link" href="https://7sucloud.vip/auth/login">登陆</a>
-	  <a class="link" href="https://7sucloud.vip/auth/register">注册</a>
+	  <a class="link" href="https://7sucloud.xyz/auth/login">登陆</a>
+	  <a class="link" href="https://7sucloud.xyz/auth/register">注册</a>
       </div>
   </div>
-  <a class="down" href="https://suying666.net" data-scroll=""><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
-<canvas class="particles-js-canvas-el" width="375" height="812" style="width: 100%; height: 100%;"></canvas></div>
+  <a class="down" href="https://7sucloud.xyz" data-scroll=""><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+<canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="2005" height="937"></canvas></div>
 
         
       <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
@@ -48,4 +48,4 @@ ga('send', 'pageview');
 
 
   
-<div><div style="display: none; position: fixed; top: 30px; width: auto; max-width: 100%; text-align: center; left: 50%; transform: translateX(-50%); z-index: 99999999;"><div style="display: inline-block; font-size: 14px; font-weight: bold; border: 1px solid rgb(240, 195, 109); background-color: rgb(249, 237, 190); padding: 0px 10px; border-radius: 2px; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px;"></div></div></div></body></html>
+</body></html>
