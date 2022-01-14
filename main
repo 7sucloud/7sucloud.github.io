@@ -1,0 +1,32 @@
+<div class="card">
+<div class="card-body">
+<h4 id="-">用低廉的价格高速存取世界互联网</h4>
+<p>科技熊网络中转服务是您的一站式链路加速服务。一键高速存取/解锁世界各地的流媒体服务(YouTube, Twitch, Netflix, HBO, Hulu, Disney+ ...)，亦或是各类社群网站(Facebook, Twitter, Instagram ...)等，满足您存取世界互联网的日常需要。</p>
+<ol>
+<li>无广告商渠道，价格低廉</li>
+<li>全球链路优化服务，联通/移动/电信三网加速</li>
+<li>所有用户可免费试用第一档套餐，若不满意还可永久免费使用(假设服务器免费资源没有用尽的情况下，每人每月2GB流量)</li>
+</ol>
+<h4 id="-">服务模式介绍：</h4>
+<strong>免费用户</strong>：每月1号获取 <code>2 GB</code>流量，限速5Mbps，只允许1台客户端同时在线。<strong>免费节点本身有流量限制，当节点自身流量耗尽之后将暂停服务，每月重置。需要稳定科学上网服务的用户请购买套餐使用。</strong> 每日可在官网首页签到来随机获取更多流量。
+<p><strong>流量耗尽用户</strong>：流量使用完毕之后不会断网，而是进入限速1Mbps的状态。</p>
+<p><strong>付费用户</strong>：每月 <code>70 GB</code> / <code>300 GB</code> / <code>1024 GB</code> 多重套餐选择，每种套餐限速与可同时在线设备数量不同。直接前往<a href="https://kejibear.ml/user/shop" title="商店">商店</a>选购套餐即可。
+不同等级的会员可使用的VIP节点不一样，请在<a href="https://kejibear.ml/user/node">节点列表</a>中确认。</p>
+<p><strong>邀请码</strong>：将<a href="https://kejibear.ml/user/invite">邀请码</a>分享给您的小伙伴们，小伙伴充值时您直接获得返利20%进入您的钱包（例如小伙伴充值<code>100</code>，您直接获得<code>20</code>），同时您将直接获得5GB的奖励流量。请注意返利不可提现，只可用于科技熊网站消费。</p>
+<p><strong>节点选择</strong>：</p>
+<ol>
+<li>若节点名称前面提示<strong>(流量耗尽)</strong>，则代表该节点暂停服务，下个月会恢复(免费资源整体有限，若所有免费服务器都提示流量耗尽，就需要等到下月重置，否则就需要升级套餐)</li>
+<li>白金会员、钻石会员、御玺贵宾分别对应前缀<strong>[C]/[B]/[A]</strong>不同节点，高等级的可以使用低等级的节点，[D]节点全员可用，包含免费用户</li>
+<li>节点地区表示代理服务器的实际位置，以城市命名，同城市可能有多个服务器，以数字区分</li>
+<li>[XX中转]是科技熊提供的<strong>商业带宽中转出口</strong>，一般商宽出口会比家宽优先级更高，直连速度不满意的时候可以尝试</li>
+<li>标示Netflix地区的节点表示该节点可以看Netflix，<strong>[美区Netflix]表示可以看美国区Netflix所有片源</strong></li>
+<li>扣费倍率按照节点成本动态调整，<strong>倍率2的节点表示若使用1GB流量，以2GB计算并扣费</strong></li>
+</ol>
+<p><strong>节点测速</strong>说明：选择完节点之后，如何知道自己的节点速度是够快的？建议使用<a href="https://speedtest.net">speedtest.net</a>测速，<em>客户端上的ping跟延迟测试没有太大意义，除非你是要打游戏。</em>在使用speedtest测速的过程中，请确保你的测速节点服务器等于节点名称（例如假设现在使用东京2节点，在speedtest上的测试就要确保测速服务器在东京，speedtest默认选择的测速节点不一定每次都准，需要自行检查）。一般来说Download 15Mbps可以看油管1080p，30Mbps可以看油管4k。自行寻找适合的节点。</p>
+<p><strong>Netflix</strong>解锁节点：Netflix服务是<em>挡代理</em>的，不是每一个代理节点都可以看Netflix，一般可以看Netflix的节点成本都比较高。节点名称中自带[Netflix]的才能正常观看Netflix，<strong>本站当前赠送最高规格的御玺用户共享Netflix帐号</strong>，可以在本页面的共享帐号区中看到。</p>
+<p><strong>用户交流群：</strong>
+本站只有Telegram交流群(这软件中文名叫电报)，Telegram是国外的加密通信软件，既然您想要探讨科学上网服务，就应该知道<strong>国内的通信软件都不靠谱</strong>，我们强烈建议您加入我们的Telegram用户群。本站是自助式站点。重大公告，服务器维护，故障排除等，可以在群内与其他用户进行交流。加入后可以第一时间收到运营公告。另外本站所有用户需要知悉的信息都在每个页面的文字说明上，请仔细阅读。</p>
+<p>Telegram是一款国外的加密通信软件，需翻墙后才能使用，如果您不知道什么是Telegram，您可以参考<a href="https://jingyan.baidu.com/article/3aed632edff02e701180914a.html">注册Telegram教学</a>，<a href="https://jingyan.baidu.com/article/7e440953009f222fc0e2efb1.html">Android客户端汉化教学</a>以及<a href="https://jingyan.baidu.com/article/63f236287c22c60208ab3da4.html">iOS客户端汉化教学</a>。 </p>
+<p>安装并注册成功后，您可以<strong> <a href="https://t.me/joinchat/ECWcmkQzuZmyJB4k5gmxOg" title="点我加入">点击加入科技熊用戶Telegram交流群</a></strong></p>
+</div>
+</div>
